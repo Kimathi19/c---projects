@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1670840945 source:c:\users\brian muriiki\documents\code blocks cpp projects\grocery\grocery.cpp
+	<string>
+	"grocery.h"
+	<iostream>
+
+1666767236 source:c:\users\brian muriiki\documents\code blocks cpp projects\grocery\main.cpp
+	<iostream>
+	<string>
+	"grocery.h"
+
+1670841364 c:\users\brian muriiki\documents\code blocks cpp projects\grocery\grocery.h
+	<string>
+

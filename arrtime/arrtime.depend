@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707919160 source:c:\users\brian muriiki\documents\code blocks cpp projects\arrtime\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<random>
+

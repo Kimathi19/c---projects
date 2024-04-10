@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670841777 source:c:\users\brian muriiki\documents\code blocks cpp projects\movie\main.cpp
+	"movie.h"
+	<iostream>
+
+1670841803 c:\users\brian muriiki\documents\code blocks cpp projects\movie\movie.h
+	<string>
+
+1670841826 source:c:\users\brian muriiki\documents\code blocks cpp projects\movie\movie.cpp
+	<string>
+	"movie.h"
+	<iostream>
+

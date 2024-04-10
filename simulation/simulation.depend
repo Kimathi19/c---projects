@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1708508109 source:c:\users\brian muriiki\documents\code blocks cpp projects\simulation\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<iomanip>
+

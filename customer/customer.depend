@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1666609937 source:c:\users\brian muriiki\documents\code blocks cpp projects\customer\customer.cpp
+	"customer.h"
+	<string>
+	<iostream>
+
+1666610358 source:c:\users\brian muriiki\documents\code blocks cpp projects\customer\main.cpp
+	<iostream>
+	<string>
+	"customer.h"
+
+1666609395 c:\users\brian muriiki\documents\code blocks cpp projects\customer\customer.h
+	<string>
+
